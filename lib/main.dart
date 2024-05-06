@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
             seedColor: const Color.fromARGB(255, 58, 135, 183)),
         useMaterial3: true,
       ),
+      home: Placeholder(),
     );
   }
 }
